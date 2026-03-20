@@ -1,5 +1,5 @@
 output "vpc_id" {
-    value = aws_vpc.cust_vpc.id
+    value = aws_vpc.this.id
      
 }
 
