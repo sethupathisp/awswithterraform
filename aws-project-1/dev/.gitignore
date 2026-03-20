@@ -4,3 +4,4 @@ terraform.tfstate.backup
 *.tfvars
 *.tfvars.json
 .env
+terraform.lock.hcl
